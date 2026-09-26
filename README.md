@@ -10,7 +10,7 @@ Experienced I.T. professional and Cybersecurity AI Practitioner with a deep foun
 ## Key Projects & Repositories  
 * **[Automated AI Triage & Analyst Update Console (PoC)](https://github.com/anthonymroso-star/siem_ai_triage)** - Custom automated AI security assistant built with **Python** and **Pandas**.
 
-* **[Network Trace Analysis & Python Forensics](https://github.com/anthonymroso-star/smb_breach_analysis)** - Resolving a hijacked management account, unmasking a hidden intruder by analyzing raw data traffic.
+* **[Network Trace Analysis & Python Forensics](https://github.com/anthonymroso-star/smb_breach_analysis)** - Resolving a hijacked management account, unmasking a hidden intruder by analysing data traffic.
 * **[AI Image Classification](https://github.com/anthonymroso-star/ai_iris)** - Custom AI model, Deep Learning neural network, developed in Python with NumPy, Pandas, Seaborn, SciKit-Learn and Matplotlib .
 * **[SIEM SOC Infrastructure Lab](https://github.com/anthonymroso-star/SIEM-SOC-Lab)** - Professional-grade Security Operations Center (SOC) system  to track, detect, and record simulated real-world cyberattacks.
 * **[Training AI Pre-trained Models](https://github.com/anthonymroso-star/ai_transfer_learning)** - AI Transfer Learning, using PyTorch with Pre-trainied ResNet model to transfer its visual knowlege into a customised class image identifier.  
